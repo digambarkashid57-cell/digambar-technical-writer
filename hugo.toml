@@ -1,0 +1,28 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Digambar Kashid | Senior Technical Writer"
+theme = "PaperMod"
+
+[params]
+  env = "development"
+  title = "Digambar Kashid"
+  description = "Senior Technical Writer | Developer Documentation | Docs-as-Code"
+  author = "Digambar Kashid"
+
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Digambar Kashid"
+    subtitle = "Senior Technical Writer | Developer Documentation | Docs-as-Code"
+
+    [[params.profileMode.buttons]]
+      name = "Work Samples"
+      url = "/samples/"
+
+    [[params.profileMode.buttons]]
+      name = "About Me"
+      url = "/about/"

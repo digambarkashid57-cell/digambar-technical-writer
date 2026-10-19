@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digambar Kashid | Senior Technical Writer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Digambar Kashid | Senior Technical Writer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/samples/gems-onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/samples/gems-onboarding/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;GEMS Developer Onboarding Guide&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;description: &amp;ldquo;Developer onboarding documentation for Generic ETL Microservices&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;# GEMS Developer Onboarding Guide&lt;/p&gt;
+&lt;p&gt;## Overview&lt;/p&gt;
+&lt;p&gt;Created developer onboarding documentation for Generic ETL Microservices (GEMS), providing structured technical information to help developers understand and onboard to the platform.&lt;/p&gt;
+&lt;p&gt;## Documentation Focus&lt;/p&gt;
+&lt;p&gt;- Developer onboarding&lt;/p&gt;
+&lt;p&gt;- Prerequisites&lt;/p&gt;
+&lt;p&gt;- Access and permissions&lt;/p&gt;
+&lt;p&gt;- Setup information&lt;/p&gt;
+&lt;p&gt;- Technical guidance&lt;/p&gt;
+&lt;p&gt;- Frequently asked questions&lt;/p&gt;
+&lt;p&gt;- Developer-focused content&lt;/p&gt;
+&lt;p&gt;## My Contribution&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
